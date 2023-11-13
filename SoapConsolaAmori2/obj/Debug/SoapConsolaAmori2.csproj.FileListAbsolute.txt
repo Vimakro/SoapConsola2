@@ -1,0 +1,7 @@
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\bin\Debug\SoapConsolaAmori2.exe.config
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\bin\Debug\SoapConsolaAmori2.exe
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\bin\Debug\SoapConsolaAmori2.pdb
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\obj\Debug\SoapConsolaAmori2.csproj.AssemblyReference.cache
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\obj\Debug\SoapConsolaAmori2.csproj.CoreCompileInputs.cache
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\obj\Debug\SoapConsolaAmori2.exe
+C:\Users\Yo\source\repos\SoapConsolaAmori2\SoapConsolaAmori2\obj\Debug\SoapConsolaAmori2.pdb
